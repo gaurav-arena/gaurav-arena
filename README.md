@@ -22,7 +22,7 @@
 -	Statistics : Descriptive Statistics, Inferential Statistics, Probability Theory, Bayesian Statistics, Time Series Forecasting.
 
 <!-- icons without padding -->
-[3.2]: https://raw.githubusercontent.com/gaurav-arena/gaurav-arena/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://github.com/gaurav-arena/gaurav-arena/blob/main/linkedin-3-16.png
 
 <!-- links to your social media accounts -->
 [3]: https://www.linkedin.com/in/gaurav-roy121/

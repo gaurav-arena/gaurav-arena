@@ -1,5 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-### I am Gaurav, an aspiring data scientist and also a graduate student at the University Of Ottawa. You can find me on  [![LinkedIn][3.2]][3].
+### I am Gaurav, an aspiring data scientist and also a graduate student at the University Of Ottawa. 
+### You can find me on  [![LinkedIn][3.2]][3].
 
 
 

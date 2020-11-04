@@ -1,9 +1,6 @@
-### Hi there! I am Gaurav, currently a graduate student and an aspiring data scientist 👋
+### Hi there! I am Gaurav, an aspiring data scientist and also currently a graduate student at the University Of Ottawa  👋
 
-<!--
-**gaurav-arena/gaurav-arena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various self developed data science projects.
 - 🌱 I’m currently learning about end to end ML model deployment on cloud.

@@ -13,11 +13,11 @@
 
 ### Skills
 
-•	Programming : Python, R, SQL, Java, C , HTML.
-•	Python Libraries : SciKit-Learn, Pandas, Numpy, Matplotlib, NLTK, SpaCy, TensorFlow, Keras, Pytorch.
-•	Data Analysis : Extensive experience with Data Cleaning, Wrangling, Visualization(Tableau, d3.js, ggplot2), Statistical Modelling, Data Mining, EDA, Handling Unstructured Data.
-•	Machine Learning : Supervised & Unsupervised, Decision Tree based ML, Linear & Logistic Regression, Outlier Detection, Classification, Clustering.
-•	Tools : R studio, Tableau, Eclipse, MS Excel, Power BI, Git, Databricks, MySQL, Apache Spark, Jupyter, PyCharm.
-•	Statistics : Descriptive Statistics, Inferential Statistics, Probability Theory, Bayesian Statistics, Time Series Forecasting.
+-	Programming : Python, R, SQL, Java, C , HTML.
+-	Python Libraries : SciKit-Learn, Pandas, Numpy, Matplotlib, NLTK, SpaCy, TensorFlow, Keras, Pytorch.
+-	Data Analysis : Extensive experience with Data Cleaning, Wrangling, Visualization(Tableau, d3.js, ggplot2), Statistical Modelling, Data Mining, EDA, Handling Unstructured Data.
+-	Machine Learning : Supervised & Unsupervised, Decision Tree based ML, Linear & Logistic Regression, Outlier Detection, Classification, Clustering.
+-	Tools : R studio, Tableau, Eclipse, MS Excel, Power BI, Git, Databricks, MySQL, Apache Spark, Jupyter, PyCharm.
+-	Statistics : Descriptive Statistics, Inferential Statistics, Probability Theory, Bayesian Statistics, Time Series Forecasting.
 
 

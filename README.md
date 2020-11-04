@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-### I am Gaurav, an aspiring data scientist and also a graduate student at the University Of Ottawa. You can find me on  [![LinkedIn][3.2]][3]
+### I am Gaurav, an aspiring data scientist and also a graduate student at the University Of Ottawa. You can find me on  [![LinkedIn][3.2]][3].
 
 
 
@@ -20,5 +20,8 @@
 -	Machine Learning : Supervised & Unsupervised, Decision Tree based ML, Linear & Logistic Regression, Outlier Detection, Classification, Clustering.
 -	Tools : R studio, Tableau, Eclipse, MS Excel, Power BI, Git, Databricks, MySQL, Apache Spark, Jupyter, PyCharm.
 -	Statistics : Descriptive Statistics, Inferential Statistics, Probability Theory, Bayesian Statistics, Time Series Forecasting.
+
+<!-- links to your social media accounts -->
+[3]: https://www.linkedin.com/in/gaurav-roy121/
 
 

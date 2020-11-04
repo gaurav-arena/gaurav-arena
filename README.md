@@ -1,4 +1,5 @@
-### Hi there! I am Gaurav, an aspiring data scientist and also currently a graduate student at the University Of Ottawa  👋
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### I am Gaurav, an aspiring data scientist and also a graduate student at the University Of Ottawa  
 
 
 
@@ -9,7 +10,7 @@
 - 💬 Ask me about my transition from a Quality Analayst (Software Tester) to an aspiring data scientist.
 - 📫 How to reach me: gaurav.arena121@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am still lookinf for a fun fact about me!
 
 ### Skills
 

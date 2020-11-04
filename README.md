@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am still lookinf for a fun fact about me!
 
-### Skills
+## 🔧 Skills
 
 -	Programming : Python, R, SQL, Java, C , HTML.
 -	Python Libraries : SciKit-Learn, Pandas, Numpy, Matplotlib, NLTK, SpaCy, TensorFlow, Keras, Pytorch.
@@ -20,6 +20,9 @@
 -	Machine Learning : Supervised & Unsupervised, Decision Tree based ML, Linear & Logistic Regression, Outlier Detection, Classification, Clustering.
 -	Tools : R studio, Tableau, Eclipse, MS Excel, Power BI, Git, Databricks, MySQL, Apache Spark, Jupyter, PyCharm.
 -	Statistics : Descriptive Statistics, Inferential Statistics, Probability Theory, Bayesian Statistics, Time Series Forecasting.
+
+<!-- icons without padding -->
+[3.2]: https://raw.githubusercontent.com/gaurav-arena/gaurav-arena/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 [3]: https://www.linkedin.com/in/gaurav-roy121/

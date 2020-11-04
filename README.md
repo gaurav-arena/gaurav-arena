@@ -29,12 +29,12 @@
 
 ## Projects
 <a href="https://github.com/gaurav-arena/Covid-19-Impact-analysis-on-Canadian-Economy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-arena&repo=Covid-19-Impact-analysis-on-Canadian-Economy-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-arena&repo=Covid-19-Impact-analysis-on-Canadian-Economy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/gaurav-arena/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-arena&repo=DiabetesPredicion-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/gaurav-arena/Diabetes-Prediction--Heroku-Deployment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-arena&repo=Diabetes-Prediction--Heroku-Deployment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 

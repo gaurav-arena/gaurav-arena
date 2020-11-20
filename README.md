@@ -11,7 +11,7 @@
 - 💬 Ask me about my transition from a Quality Analayst (Software Tester) to an aspiring data scientist.
 - 📫 Email: gaurav.arena121@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am still lookinf for a fun fact about me!
+- ⚡ Fun fact: I am still looking for a fun fact about me!
 
 ## 🔧 Skills
 
